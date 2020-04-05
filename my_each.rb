@@ -4,7 +4,7 @@ def my_each(array)
   while i < array.size
     #isolate a single element of the array
     #yield the element taht we have isolated
-    
+    array = -1
   end    
   
 end
